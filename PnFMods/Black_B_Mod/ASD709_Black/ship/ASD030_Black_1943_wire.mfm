@@ -1,0 +1,13 @@
+<ASD030_Black_1943_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD030_Black_1943_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD030_Black_1943_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD021_Fletcher_1943_n.dds	</Texture>
+	</property>
+</ASD030_Black_1943_wire.mfm>

@@ -1,0 +1,7 @@
+<AGA002_40mm_Bofors_Mk1_dead_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGA002_40mm_Bofors_Mk1_dead_lod3	</parent>
+	<extent>	20.0000	</extent>
+	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGA002_40mm_Bofors_Mk1_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA002_40mm_Bofors_Mk1_dead_lod2.model>

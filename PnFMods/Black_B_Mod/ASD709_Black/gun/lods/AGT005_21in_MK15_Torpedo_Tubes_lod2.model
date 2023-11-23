@@ -1,0 +1,8 @@
+<AGT005_21in_MK15_Torpedo_Tubes_lod2.model>
+	<extent>	30.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGT005_21in_MK15_Torpedo_Tubes_lod3	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGT005_21in_MK15_Torpedo_Tubes_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGT005_21in_MK15_Torpedo_Tubes_lod2.model>

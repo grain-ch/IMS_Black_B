@@ -1,0 +1,13 @@
+<AGS001_5in38_Mk30_Mod0.model>
+	<extent>	4.000000	</extent>
+	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGS001_5in38_Mk30_Mod0_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.118270 -0.012886 -0.197162	</min>
+		<max>	0.115564 0.193070 0.341167	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/AGS001_5in38_Mk30_Mod0	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGS001_5in38_Mk30_Mod0.model>

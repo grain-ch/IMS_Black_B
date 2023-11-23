@@ -1,0 +1,23 @@
+<ARS005_Radar_SC2.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	3.0000	</extent>
+	<parent>	PnFMods/Black_B_Mod/ASD709_Black/radar/lods/ARS005_Radar_SC2_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.068080 0.000003 -0.117734	</min>
+		<max>	0.121319 0.145334 0.063555	</max>
+	</visibilityBox>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/radar/ARS005_Radar_SC2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ARS005_Radar_SC2.model>
