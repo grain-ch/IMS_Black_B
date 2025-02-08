@@ -1,8 +1,0 @@
-<AGS001_5in38_Mk30_Mod0_lod2.model>
-	<extent>	30.000000	</extent>
-	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGS001_5in38_Mk30_Mod0_lod3	</parent>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGS001_5in38_Mk30_Mod0_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AGS001_5in38_Mk30_Mod0_lod2.model>

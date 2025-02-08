@@ -1,13 +1,6 @@
 <AGT004_21in_MK14_Torpedo_Tubes.model>
-	<extent>	4.0000	</extent>
-	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGT004_21in_MK14_Torpedo_Tubes_lod1	</parent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.109978 -0.000000 -0.221700	</min>
-		<max>	0.109979 0.165330 0.315541	</max>
-	</visibilityBox>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/AGT004_21in_MK14_Torpedo_Tubes	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Black_B_Mod/ASD709_Black/gun/AGT004_21in_MK14_Torpedo_Tubes.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AGT004_21in_MK14_Torpedo_Tubes.model>

@@ -1,10 +1,11 @@
 <ASD030_Black_1943.mfm>
-	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
-	<property>emissivePower<Float>2.00000</Float></property>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<materialKind>	0	</materialKind>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD021_Fletcher_1943_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
 	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD030_Black_1943_a.dds	</Texture>
@@ -15,25 +16,22 @@
 	<property>	normalMap
 		<Texture>	PnFMods/Black_B_Mod/ASD709_Black/ship/ASD021_Fletcher_1943_n.dds	</Texture>
 	</property>
-	<property>	detailMap
-		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
-	</property>
 	<property>	g_detailAlbedoInfluence
-		<Float>	0.000000	</Float>
-	</property>
-	<property>	g_detailGlossInfluence
-		<Float>	0.000000	</Float>
-	</property>
-	<property>	g_detailNormalInfluence
-		<Float>	0.000000	</Float>
+		<Float>	0.0000	</Float>
 	</property>
 	<property>	g_detailFadeDistance
-		<Float>	5.000000	</Float>
+		<Float>	5.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	0.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.0000	</Float>
 	</property>
 	<property>	g_detailScaleU
-		<Float>	16.000000	</Float>
+		<Float>	16.0000	</Float>
 	</property>
 	<property>	g_detailScaleV
-		<Float>	16.000000	</Float>
+		<Float>	16.0000	</Float>
 	</property>
 </ASD030_Black_1943.mfm>

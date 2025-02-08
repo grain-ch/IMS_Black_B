@@ -1,13 +1,6 @@
 <AGS001_5in38_Mk30_Mod0_dead.model>
-	<extent>	4.000000	</extent>
-	<parent>	PnFMods/Black_B_Mod/ASD709_Black/gun/lods/AGS001_5in38_Mk30_Mod0_dead_lod1	</parent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<visibilityBox>
-		<min>	-0.129910 -0.012886 -0.197152	</min>
-		<max>	0.116915 0.206320 0.335816	</max>
-	</visibilityBox>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/Black_B_Mod/ASD709_Black/gun/AGS001_5in38_Mk30_Mod0_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/Black_B_Mod/ASD709_Black/gun/AGS001_5in38_Mk30_Mod0_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AGS001_5in38_Mk30_Mod0_dead.model>
